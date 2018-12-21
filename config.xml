@@ -20,10 +20,6 @@
     <preference name="SplashScreen" value="screen" />
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="ShowSplashScreenSpinner" value="false"/>
-    <!-- <preference name="FadeSplashScreenDuration" value="300" />
-    <preference name="AutoHideSplashScreen" value="false" />
-    <preference name="ShowSplashScreen" value="true" />
-    <preference name="FadeSplashScreen" value="true" /> -->
     <platform name="android">
         <allow-intent href="market:*" />
         <icon density="ldpi" src="resources/android/icon/drawable-ldpi-icon.png" />
